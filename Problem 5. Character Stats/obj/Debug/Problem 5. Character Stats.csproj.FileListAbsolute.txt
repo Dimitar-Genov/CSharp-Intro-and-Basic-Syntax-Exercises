@@ -1,0 +1,6 @@
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe.config
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.pdb
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csprojResolveAssemblyReference.cache
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.exe
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.pdb

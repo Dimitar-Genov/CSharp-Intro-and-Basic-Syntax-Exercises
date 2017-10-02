@@ -1,0 +1,6 @@
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\dimitar\documents\visual studio 2015\Projects\CSharp-Intro-and-Basic-Syntax-Exercises\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb
